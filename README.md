@@ -99,5 +99,5 @@ class RamadanMohammed:
     def intro(self):
         return f"Hi, I'm {self.role} who loves turning raw data into insights 📊"
 
-![GitHub Snake Animation](https://github.com/Ramadan-2005/Ramadan-2005/blob/output/snake.svg)
+![snake gif](https://github.com/Ramadan-2005/Ramadan-2005/blob/output/github-contribution-grid-snake.svg)
 

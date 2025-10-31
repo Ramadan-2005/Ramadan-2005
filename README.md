@@ -1,7 +1,10 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Data" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+
+<h2>👋 Hello Data, I'm Ramadan Mohammed</h2>
+<h4>Data Analyst | Excel • Power BI • Tableau • Python • SQL Server • Jupyter Notebook</h4>
 
 <details>
 <p><strong><summary> 🎧 Busy analyzing data & vibing to : </summary></strong></p>
@@ -25,7 +28,7 @@
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
@@ -40,7 +43,7 @@ class RamadanMohamed:
         self.role = "Data Analyst"
         self.tools = {
             "Data Tools": ["Excel", "Power BI", "Tableau"],
-            "Programming": ["Python", "SQL"],
+            "Programming": ["Python", "SQL Server"],
             "Analysis": ["Pandas", "NumPy", "Matplotlib"],
             "Environment": ["Jupyter Notebook", "VSCode"],
         }

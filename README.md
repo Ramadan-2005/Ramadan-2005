@@ -82,6 +82,9 @@ Here are some of my key projects (and there are many more under development 👇
 
 </div>
 
+
+![snake gif](https://github.com/Ramadan-2005/Ramadan-2005/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## ⚙️ My Toolbox
@@ -99,5 +102,4 @@ class RamadanMohammed:
     def intro(self):
         return f"Hi, I'm {self.role} who loves turning raw data into insights 📊"
 
-![snake gif](https://github.com/Ramadan-2005/Ramadan-2005/blob/output/github-contribution-grid-snake.svg)
 

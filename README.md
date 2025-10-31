@@ -56,11 +56,15 @@
 ---
 
 ## 📂 Featured Projects
-> Replace these with links to your real work or dashboards
+Here are some of my key projects (and there are many more under development 👇):
 
 - **Sales Performance Dashboard (Power BI)** – Monthly KPI tracking and trend insights.  
 - **Customer Churn Prediction (Python)** – End-to-end model with preprocessing and visualization.  
 - **HR Analytics (Tableau)** – Employee performance and turnover analysis.  
+- **Financial Data Reporting (Excel)** – Automated reporting system with pivot analysis.  
+- **Marketing Campaign Dashboard (Power BI)** – ROI and performance measurement.  
+
+➡️ *More projects and dashboards are being added soon...*
 
 ---
 

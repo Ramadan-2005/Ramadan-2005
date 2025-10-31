@@ -19,18 +19,18 @@
 
   <br/>
 
-  <!-- Counters -->
+  <!-- Profile Counter -->
   <img src="https://komarev.com/ghpvc/?username=1ramadan-mohammed&style=for-the-badge&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1ramadan-mohammed&count_bg=%2379C83D&title_bg=%23555555&icon=database.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits"/>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-- 📊 Data Analyst who transforms raw data into actionable insights.  
+- 📊 Passionate **Data Analyst** turning complex data into meaningful insights.  
 - ⚙️ Skilled in **Excel**, **Power BI**, **Tableau**, **Python**, and **SQL Server**.  
-- 🧠 Passionate about data visualization, automation, and storytelling with data.  
-- 🚀 Always learning new techniques to make analytics faster and smarter.  
+- 💡 Strong focus on automation, visualization, and business intelligence.  
+- 🚀 Always exploring new tools and technologies to improve analytical workflows.  
 
 ---
 
@@ -52,17 +52,15 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
-> Replace with links to your real repositories or dashboards.
+> Replace these with links to your real work or dashboards
 
-- **Sales Performance Dashboard (Power BI)** – Monthly sales analysis with KPIs & forecasts.  
-- **Customer Churn Prediction (Python)** – Data cleaning, logistic regression model, and reporting.  
-- **HR Analytics (Tableau)** – Employee turnover dashboard with storytelling view.  
+- **Sales Performance Dashboard (Power BI)** – Monthly KPI tracking and trend insights.  
+- **Customer Churn Prediction (Python)** – End-to-end model with preprocessing and visualization.  
+- **HR Analytics (Tableau)** – Employee performance and turnover analysis.  
 
 ---
 

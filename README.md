@@ -71,23 +71,16 @@ Here are some of my key projects (and there are many more under development 👇
 
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ramadan-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  
-  <!-- Streak (updated domain + force cache refresh) -->
-  <img src="https://streak-stats.demolab.com?user=Ramadan-2005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF9D00&currStreakLabel=FFFFFF" height="160" alt="GitHub Streak" />
+
+  <!-- Contributor Stats (works even if repos are private) -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ramadan-2005&limit=5&theme=tokyonight&hide_border=true" height="160" alt="Contributor Stats" />
 
   <br/><br/>
 
   <!-- Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadan-2005&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
 
-  <br/><br/>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramadan-2005&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=5" alt="GitHub Trophies" />
-
 </div>
-
-
 
 ---
 

@@ -115,25 +115,6 @@ Here are some of my key projects (and there are many more under development 👇
 
 ---
 
-## 📅 Current Activity
-<div align="center" style="background: linear-gradient(135deg, #111827, #1e293b, #312e81); padding: 25px; border-radius: 15px;">
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramadan-2005&bg_color=111827&color=818cf8&line=a78bfa&point=c084fc&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-  <br/><br/>
-
-  <!-- Activity Counters -->
-  <img src="https://badges.pufler.dev/years/Ramadan-2005?color=818cf8&style=for-the-badge&label=Years%20on%20GitHub" alt="Years Active" />
-  <img src="https://badges.pufler.dev/commits/monthly/Ramadan-2005?color=a78bfa&style=for-the-badge&label=Monthly%20Commits" alt="Monthly Commits" />
-  <img src="https://badges.pufler.dev/repos/Ramadan-2005?color=c084fc&style=for-the-badge&label=Public%20Repos" alt="Public Repos" />
-
-</div>
-
-
-
----
-
 ## ⚙️ My Toolbox
 ```python
 class RamadanMohammed:

@@ -71,7 +71,7 @@ Here are some of my key projects (and there are many more under development 👇
 
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ramadan-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadan-2005&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ramadan-2005&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 
   <br/><br/>
 
@@ -84,6 +84,7 @@ Here are some of my key projects (and there are many more under development 👇
   <img src="https://github-profile-trophy.vercel.app/?username=Ramadan-2005&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=5" alt="GitHub Trophies" />
 
 </div>
+
 
 ---
 

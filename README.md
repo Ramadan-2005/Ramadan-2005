@@ -66,6 +66,26 @@ Here are some of my key projects (and there are many more under development 👇
 
 ➡️ *More projects and dashboards are being added soon...*
 
+## 📊 GitHub Stats & Activity
+<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b, #0f172a); padding: 25px; border-radius: 15px;">
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=1ramadan-mohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1ramadan-mohammed&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ramadan-mohammed&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=1ramadan-mohammed&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=5" alt="GitHub Trophies" />
+
+</div>
+
+
 ---
 
 ## ⚙️ My Toolbox

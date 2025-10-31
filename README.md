@@ -90,7 +90,7 @@ Here are some of my key projects (and there are many more under development 👇
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ramadan-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
 
-  <!-- Contributor Stats (works even if repos are private) -->
+  <!-- Contributor Stats -->
   <img src="https://github-contributor-stats.vercel.app/api?username=Ramadan-2005&limit=5&theme=tokyonight&hide_border=true" height="160" alt="Contributor Stats" />
 
   <br/><br/>
@@ -99,6 +99,19 @@ Here are some of my key projects (and there are many more under development 👇
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadan-2005&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
 
 </div>
+
+---
+
+## 📅 Current Activity
+<div align="center" style="background: linear-gradient(135deg, #111827, #1e293b, #312e81); padding: 25px; border-radius: 15px;">
+
+  <!-- Activity Counters -->
+  <img src="https://badges.pufler.dev/years/Ramadan-2005?color=818cf8&style=for-the-badge&label=Years%20on%20GitHub" alt="Years Active" />
+  <img src="https://badges.pufler.dev/commits/monthly/Ramadan-2005?color=a78bfa&style=for-the-badge&label=Monthly%20Commits" alt="Monthly Commits" />
+  <img src="https://badges.pufler.dev/repos/Ramadan-2005?color=c084fc&style=for-the-badge&label=Public%20Repos" alt="Public Repos" />
+
+</div>
+
 
 ---
 
